@@ -2,7 +2,7 @@
     "header_version": 1,
     "author": "Kapiqiano",
     "name": "ChatGPT Submod - Five Linux Distros Dialogues",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An unofficial fan-made MAS submod featuring five English conversations about Linux distributions.",
     "modules": [
         "main",
