@@ -50,7 +50,6 @@ ChatGPT-Submod-Five-Linux-Distros-Dialogues/
 | Property | Value |
 |---|---|
 | Author | Kapiqiano |
-| Version | 1.0.0 |
 | Language | English |
 | Platform | Monika After Story |
 | Category | Dialogue Submod |
