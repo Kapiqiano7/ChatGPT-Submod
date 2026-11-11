@@ -27,6 +27,7 @@ ChatGPT-Submod-Five-Linux-Distros-Dialogues/
 │
 ├── header.json
 ├── submod_info.rpy
+├── chatgpt_submod_updater.rpy
 ├── main.rpy
 │
 └── topics/
